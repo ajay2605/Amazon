@@ -1,51 +1,144 @@
 [
-{"title": "Dettol Instant Liquid Hand Sanitizer Refresh Anti-Bacterial 50ml", "price": "$2.99"},
-{"title": "Palmolive Antibacterial Liquid Hand Wash Refill, 1L", "price": "$6.50"},
-{"title": "Olaplex Hair Perfector No.3", "price": "$38.99"},
-{"title": "Dettol Instant Liquid Hand Sanitizer Refresh Anti-Bacterial 200ml", "price": "$26.99"},
-{"title": "ASAKUKI Aromatherapy Essential Oils includes Lavender, Eucalyptus, Lemongrass, Tea Tree, Sweet Orange and Peppermint, Water-soluble Essential Oils for Diffuser and Humidifier, Ideal Gift Set of 6 x 10ml", "price": "$24.99"},
-{"title": "20% Vitamin C Serum - Made in Canada - Certified Organic + 11% Hyaluronic Acid + Vitamin E Moisturizer + Collagen Boost - Reverse Skin Aging, Remove Sun Spots, Wrinkles and Dark Circles, Excellent for Sensitive Skin + Includes Pump & Dropper 60 ml", "price": "$69.99"},
-{"title": "TOMICCA Polygel Nail Kit Poly Gel UV Builder Gel Nail Extension", "price": "$5.60"},
-{"title": "COSRX Acne Pimple Master Patch, 24 Patches, 0.01 kg Pack of 1", "price": "$36.95"},
-{"title": "Aztec Secret - Indian Healing Clay - 1 lb. | Deep Pore Cleansing Facial & Body Mask | The Original 100% Natural Calcium Bentonite Clay \u2013 New! Version 2", "price": "$49.99"},
-{"title": "Dip Powder Nail Kit, TOMICCA Nail Dipping Powder System Starter Kit of 4 Colors 0.52oz - Finer Powder for Excellent Color - Easy to Apply (Pink Series)", "price": "$1.99"},
-{"title": "Wet Ones Be Gentle Travel Pack, 15 Wipes", "price": "$37.29"},
-{"title": "L'Or\u00e9al Paris Men Expert Hydra Energetic All-in-One Moisturiser 75ml", "price": "$19.99"},
-{"title": "Aztec Secret - Indian Healing Clay - Deep Pore Cleansing Facial & Healing Body Mask - The Original 100% Natural Calcium Bentonite Clay - 454g", "price": "$11.99"},
-{"title": "Blackhead Remover Vacuum Skin Pore Cleasner Electric Facial Cleaner Acne Comedone Extractor Kit for Men and Women", "price": "$8.00"},
-{"title": "Anjou Blackhead Remover Comedone Extractor, Curved Blackhead Tweezers Kit, 6-in-1 Professional Stainless Pimple Acne Blemish Removal Tools Set, Silver", "price": "$22.95"},
-{"title": "L'Or\u00e9al Paris Men Expert Hydra Energetic Moisturiser 50ml", "price": "$11.49"},
-{"title": "Dove Nourishing Secrets Conditioner Restoring Ritual  3 x 640ml", "price": "$24.00"},
-{"title": "Aimeili Soak Off Uv Led Gel Nail Polish - Base And No Wipe Top Coat Kit Set 10Ml", "price": "$17.80"},
-{"title": "Fancii Professional Electric Manicure & Pedicure Nail File Set with Stand - The Complete Portable Nail Drill System with Buffer, Polisher, Shiner, Shaper and UV Dryer", "price": "$23.99"},
-{"title": "Cosrx Acne Pimple Master Patch 24Patches*4Sheet", "price": "$4.42"},
-{"title": "AIMEILI Soak Off UV LED Gel Nail Polish Multicolour/Mix Colour/Combo Colour Set Of 6pcs X 10ml - Kit Set 30", "price": "$15.99"},
-{"title": "Sungpunet 10PC Plastic Acrylic Nail Art Soak Off Cap Clip UV Gel Polish Remover Wrap Tool Pink", "price": "$47.69"},
-{"title": "BEAKEY Makeup Brush Set Premium Synthetic Kabuki Foundation Face Powder Blush Eyeshadow Brushes Makeup Brush Kit with Blender Sponge and Brush Egg (10+2pcs,Black/Silver)", "price": "$17.00"},
-{"title": "Hair Growth Shampoo and Conditioner by Watermans - Combo Pack - *Can reduce hair loss", "price": "$38.01"},
-{"title": "Remington Aero 2000 Hair Dryer", "price": "$68.99"},
-{"title": "Paula's Choice Skin Perfecting 2% BHA Liquid Salicylic Acid Exfoliantfacial Exfoliant For Blackheads, Enlarged Pores, Wrinkles & Fine Lines, 4 oz Bottle", "price": "$19.99"},
-{"title": "HANKEY Bamboo Bathtub Caddy Tray (Extendable) Luxury Spa Organizer with Folding Sides | Natural, Ecofriendly Wood | Integrated Tablet, Smartphone, Wine, Book Holders", "price": "$46.99"},
-{"title": "HailiCare Manicure Pedicure Set Nail Clippers - 15 in 1 Men\u2019s Stainless Steel Professional Pedicure Kit Nail Scissors Grooming Kit with Black Leather Travel Case", "price": "$11.44"},
-{"title": "Geecol USB Portable Nail Drill Set- 2019 Updated Version Professional 11 in 1 Nail Drill Machine 20000 RPM Manicure Pedicure Nail File Drill Kit Set for Acrylic Gel Nails(Pink)", "price": "$78.50"},
-{"title": "The Ordinary Niacinamide 10% + Zinc 1% 30ml", "price": "$10.00"},
-{"title": "Professional 54W Nail Dryer,Dulcii UV/LED Gel Polish Smart Auto-sensing Nail Curing Lamp-36 LED Beads-Double Light Source(365 + 405nm)-Salon Level", "price": "$29.95"},
-{"title": "Simple Kind To Skin Facial Wash Moisturising, 150ml", "price": "$26.00"},
-{"title": "Luxurico Bath Bombs Gift Set 6 Natural Fizzies, Shea Butter & Lavender Dry Skin Moisturize, Perfect for Bubble & Spa Bath. Handmade Birthday Gift idea For Her/Him, wife, girlfriend, men, women", "price": "$45.99"},
-{"title": "COSRX Advanced Snail 96 Mucin Power Essence, 100ml, 0.19 kg Pack of 1", "price": "$58.99"},
-{"title": "AU Plug Hot Air Brush,One Step Hair Dryer & Volumizer Hair Dryer & Volumizing Styler Comb 3-in-1 Negative Ion Straightening Brush Salon Hair Straightener Brush Curler for All Hair Types", "price": "$24.29"},
-{"title": "Meraif 2020 Premium One Step Hair Dryer and Volumizer, AU Plug, Delivery from AU Warehouse, 5 in 1 Hair Dryer Brush Hot Air Brush Comb Blow Dryer Styler Brush Negative Ion Hair Dryer for All Hair Types", "price": "$15.99"},
-{"title": "Best Hair Growth Shampoo Sulphate & Paraben Free, Caffeine, Biotin, Argan Oil, Allantoin, Rosemary. Stimulates hair growth, Great for slow growing hair - Hair Loss problems for Men and Women", "price": "$4.97"},
-{"title": "Direct From Factory 0.5mm Derma Roller - 540 Titanium Microneedle Dermaroller for Face - Cosmetic Microneedling Instrument for Facial Skin Care - Massage Tools Professional", "price": "$39.95"},
-{"title": "Simple Kind To Skin Light Moisturiser Hydrating, 125ml", "price": "$74.50"},
-{"title": "Luxurious Thick Premium Six Suction Cups Support Head, Neck, Shoulder & Back Spa Bath Pillow (Black)", "price": "$25.00"},
-{"title": "Remington Men's Titanium All-In-One Trimmer/Groomer Kit", "price": "$9.50"},
-{"title": "L'Or\u00e9al Paris Colourista Effects Permanent Hair Colour- Blonde Bleach", "price": "$2.49"},
-{"title": "Palmolive Gold Bar Soap Daily Deodorant Protection 4 x 90g", "price": "$20.95"},
-{"title": "Acetone 100% Pure SNS Gel Acrylic Nail Polish Soak Off Salon Remover 250 ml", "price": "$2.37"},
-{"title": "NIVEA Lip Balm, Original Care, 4.8g", "price": "$29.97"},
-{"title": "Skin Doctors Vitamin A Ampoules 50 Pack", "price": "$23.99"},
-{"title": "Organic Castor Oil Eyelash Serum (30ml) By Sky Organics, Cold-Pressed, 100% Pure, Castor Oil - Dry Skin, Hair Growth, Eyelashes growth & eyebrows growth- Caster Oil Lash Enhancer with Mascara Brushes (1oz Glass Bottle)", "price": "$26.40"},
-{"title": "Dermal Korea Collagen Essence Full Face Facial Mask Sheet, 16 Combo Pack", "price": "$2.97"},
-{"title": "Garnier Skin Active Micellar Cleansing Wipes 25 Wipes", "price": "$19.95"}
+	{ "title": "Dettol Instant Liquid Hand Sanitizer Refresh Anti-Bacterial 50ml", "price": "$2.99" },
+	{ "title": "Palmolive Antibacterial Liquid Hand Wash Refill, 1L", "price": "$6.50" },
+	{ "title": "Olaplex Hair Perfector No.3", "price": "$38.99" },
+	{
+		"title": "Dettol Instant Liquid Hand Sanitizer Refresh Anti-Bacterial 200ml",
+		"price": "$26.99"
+	},
+	{
+		"title": "ASAKUKI Aromatherapy Essential Oils includes Lavender, Eucalyptus, Lemongrass, Tea Tree, Sweet Orange and Peppermint, Water-soluble Essential Oils for Diffuser and Humidifier, Ideal Gift Set of 6 x 10ml",
+		"price": "$24.99"
+	},
+	{
+		"title": "20% Vitamin C Serum - Made in Canada - Certified Organic + 11% Hyaluronic Acid + Vitamin E Moisturizer + Collagen Boost - Reverse Skin Aging, Remove Sun Spots, Wrinkles and Dark Circles, Excellent for Sensitive Skin + Includes Pump & Dropper 60 ml",
+		"price": "$69.99"
+	},
+	{ "title": "TOMICCA Polygel Nail Kit Poly Gel UV Builder Gel Nail Extension", "price": "$5.60" },
+	{ "title": "COSRX Acne Pimple Master Patch, 24 Patches, 0.01 kg Pack of 1", "price": "$36.95" },
+	{
+		"title": "Aztec Secret - Indian Healing Clay - 1 lb. | Deep Pore Cleansing Facial & Body Mask | The Original 100% Natural Calcium Bentonite Clay \u2013 New! Version 2",
+		"price": "$49.99"
+	},
+	{
+		"title": "Dip Powder Nail Kit, TOMICCA Nail Dipping Powder System Starter Kit of 4 Colors 0.52oz - Finer Powder for Excellent Color - Easy to Apply (Pink Series)",
+		"price": "$1.99"
+	},
+	{ "title": "Wet Ones Be Gentle Travel Pack, 15 Wipes", "price": "$37.29" },
+	{
+		"title": "L'Or\u00e9al Paris Men Expert Hydra Energetic All-in-One Moisturiser 75ml",
+		"price": "$19.99"
+	},
+	{
+		"title": "Aztec Secret - Indian Healing Clay - Deep Pore Cleansing Facial & Healing Body Mask - The Original 100% Natural Calcium Bentonite Clay - 454g",
+		"price": "$11.99"
+	},
+	{
+		"title": "Blackhead Remover Vacuum Skin Pore Cleasner Electric Facial Cleaner Acne Comedone Extractor Kit for Men and Women",
+		"price": "$8.00"
+	},
+	{
+		"title": "Anjou Blackhead Remover Comedone Extractor, Curved Blackhead Tweezers Kit, 6-in-1 Professional Stainless Pimple Acne Blemish Removal Tools Set, Silver",
+		"price": "$22.95"
+	},
+	{ "title": "L'Or\u00e9al Paris Men Expert Hydra Energetic Moisturiser 50ml", "price": "$11.49" },
+	{ "title": "Dove Nourishing Secrets Conditioner Restoring Ritual  3 x 640ml", "price": "$24.00" },
+	{
+		"title": "Aimeili Soak Off Uv Led Gel Nail Polish - Base And No Wipe Top Coat Kit Set 10Ml",
+		"price": "$17.80"
+	},
+	{
+		"title": "Fancii Professional Electric Manicure & Pedicure Nail File Set with Stand - The Complete Portable Nail Drill System with Buffer, Polisher, Shiner, Shaper and UV Dryer",
+		"price": "$23.99"
+	},
+	{ "title": "Cosrx Acne Pimple Master Patch 24Patches*4Sheet", "price": "$4.42" },
+	{
+		"title": "AIMEILI Soak Off UV LED Gel Nail Polish Multicolour/Mix Colour/Combo Colour Set Of 6pcs X 10ml - Kit Set 30",
+		"price": "$15.99"
+	},
+	{
+		"title": "Sungpunet 10PC Plastic Acrylic Nail Art Soak Off Cap Clip UV Gel Polish Remover Wrap Tool Pink",
+		"price": "$47.69"
+	},
+	{
+		"title": "BEAKEY Makeup Brush Set Premium Synthetic Kabuki Foundation Face Powder Blush Eyeshadow Brushes Makeup Brush Kit with Blender Sponge and Brush Egg (10+2pcs,Black/Silver)",
+		"price": "$17.00"
+	},
+	{
+		"title": "Hair Growth Shampoo and Conditioner by Watermans - Combo Pack - *Can reduce hair loss",
+		"price": "$38.01"
+	},
+	{ "title": "Remington Aero 2000 Hair Dryer", "price": "$68.99" },
+	{
+		"title": "Paula's Choice Skin Perfecting 2% BHA Liquid Salicylic Acid Exfoliantfacial Exfoliant For Blackheads, Enlarged Pores, Wrinkles & Fine Lines, 4 oz Bottle",
+		"price": "$19.99"
+	},
+	{
+		"title": "HANKEY Bamboo Bathtub Caddy Tray (Extendable) Luxury Spa Organizer with Folding Sides | Natural, Ecofriendly Wood | Integrated Tablet, Smartphone, Wine, Book Holders",
+		"price": "$46.99"
+	},
+	{
+		"title": "HailiCare Manicure Pedicure Set Nail Clippers - 15 in 1 Men\u2019s Stainless Steel Professional Pedicure Kit Nail Scissors Grooming Kit with Black Leather Travel Case",
+		"price": "$11.44"
+	},
+	{
+		"title": "Geecol USB Portable Nail Drill Set- 2019 Updated Version Professional 11 in 1 Nail Drill Machine 20000 RPM Manicure Pedicure Nail File Drill Kit Set for Acrylic Gel Nails(Pink)",
+		"price": "$78.50"
+	},
+	{ "title": "The Ordinary Niacinamide 10% + Zinc 1% 30ml", "price": "$10.00" },
+	{
+		"title": "Professional 54W Nail Dryer,Dulcii UV/LED Gel Polish Smart Auto-sensing Nail Curing Lamp-36 LED Beads-Double Light Source(365 + 405nm)-Salon Level",
+		"price": "$29.95"
+	},
+	{ "title": "Simple Kind To Skin Facial Wash Moisturising, 150ml", "price": "$26.00" },
+	{
+		"title": "Luxurico Bath Bombs Gift Set 6 Natural Fizzies, Shea Butter & Lavender Dry Skin Moisturize, Perfect for Bubble & Spa Bath. Handmade Birthday Gift idea For Her/Him, wife, girlfriend, men, women",
+		"price": "$45.99"
+	},
+	{
+		"title": "COSRX Advanced Snail 96 Mucin Power Essence, 100ml, 0.19 kg Pack of 1",
+		"price": "$58.99"
+	},
+	{
+		"title": "AU Plug Hot Air Brush,One Step Hair Dryer & Volumizer Hair Dryer & Volumizing Styler Comb 3-in-1 Negative Ion Straightening Brush Salon Hair Straightener Brush Curler for All Hair Types",
+		"price": "$24.29"
+	},
+	{
+		"title": "Meraif 2020 Premium One Step Hair Dryer and Volumizer, AU Plug, Delivery from AU Warehouse, 5 in 1 Hair Dryer Brush Hot Air Brush Comb Blow Dryer Styler Brush Negative Ion Hair Dryer for All Hair Types",
+		"price": "$15.99"
+	},
+	{
+		"title": "Best Hair Growth Shampoo Sulphate & Paraben Free, Caffeine, Biotin, Argan Oil, Allantoin, Rosemary. Stimulates hair growth, Great for slow growing hair - Hair Loss problems for Men and Women",
+		"price": "$4.97"
+	},
+	{
+		"title": "Direct From Factory 0.5mm Derma Roller - 540 Titanium Microneedle Dermaroller for Face - Cosmetic Microneedling Instrument for Facial Skin Care - Massage Tools Professional",
+		"price": "$39.95"
+	},
+	{ "title": "Simple Kind To Skin Light Moisturiser Hydrating, 125ml", "price": "$74.50" },
+	{
+		"title": "Luxurious Thick Premium Six Suction Cups Support Head, Neck, Shoulder & Back Spa Bath Pillow (Black)",
+		"price": "$25.00"
+	},
+	{ "title": "Remington Men's Titanium All-In-One Trimmer/Groomer Kit", "price": "$9.50" },
+	{
+		"title": "L'Or\u00e9al Paris Colourista Effects Permanent Hair Colour- Blonde Bleach",
+		"price": "$2.49"
+	},
+	{ "title": "Palmolive Gold Bar Soap Daily Deodorant Protection 4 x 90g", "price": "$20.95" },
+	{
+		"title": "Acetone 100% Pure SNS Gel Acrylic Nail Polish Soak Off Salon Remover 250 ml",
+		"price": "$2.37"
+	},
+	{ "title": "NIVEA Lip Balm, Original Care, 4.8g", "price": "$29.97" },
+	{ "title": "Skin Doctors Vitamin A Ampoules 50 Pack", "price": "$23.99" },
+	{
+		"title": "Organic Castor Oil Eyelash Serum (30ml) By Sky Organics, Cold-Pressed, 100% Pure, Castor Oil - Dry Skin, Hair Growth, Eyelashes growth & eyebrows growth- Caster Oil Lash Enhancer with Mascara Brushes (1oz Glass Bottle)",
+		"price": "$26.40"
+	},
+	{
+		"title": "Dermal Korea Collagen Essence Full Face Facial Mask Sheet, 16 Combo Pack",
+		"price": "$2.97"
+	},
+	{ "title": "Garnier Skin Active Micellar Cleansing Wipes 25 Wipes", "price": "$19.95" }
 ]
